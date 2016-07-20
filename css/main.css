@@ -1,0 +1,25 @@
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.CajaAzul {
+	background-color: blue;
+	left: 0; 
+	top:0;
+}
+.CajaRosa {
+	background-color: #ee3e64;
+	right: 0;
+	top: 0;
+}
+.CajaPurple {
+	background-color: purple;
+	left: 0;
+	bottom: 0;
+}
+.CajaBlack {
+	background-color: black;
+	right: 0;
+	bottom: 0;
+}
